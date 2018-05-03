@@ -1,0 +1,77 @@
+
+{
+    "origin": ["#insulting reply#", "#praising reply#", "#constructivereply#"],
+       
+    "insulting reply": ["#bad#,#bad finisher#"],
+        "praising reply" : ["#good#, #good finisher#"],
+          
+        "bad":["i wish i #strong in pc#" , "this is as bad as #bad combo#","i will need #something good# after trying this",
+                "i will need #something addicting#", "i wish i was never #pc terminology of creation#"],
+            "good":["This is as good as #good combo#", "after trying this i feel ##"],
+            "bad finisher":["so i could #action#",  "#destructive pc#", "i will #threat#"],
+            "good finisher":[" "],
+            "constructive reply":[""],
+        
+            
+            "good example":[""],
+            "insult":[""],
+            "compliment" : ["surely better than #bad computer software#"],  
+            "good combo": [""],
+            "bad food combo":["#word1# and #word2#"],
+                        
+            
+            "bad general combo":[""],
+                "word1":["banana"],
+                "word2":["pumpkin"],
+            "bad mix":["#item1# in #item2#"],
+                "item1":[" Banana "],
+                "item2":[" fanta "],
+                
+    "feel good": ["updated"," someone put me into sweet sweet virus scan", ""],
+    
+    "hooman stuff": [" puke ", "digest"],
+    
+    "pc number sys":["Binary", "Hexadecimal", "Octal"],
+    
+    "bad computer software":["windows", "internet explorer", "ransomware", "Adobe reader patches", " Ask Toolbar","lotus notes",
+            "norton Antivirus", "MacaAfee", "adobe flash", "iTunes for Windows", "windows me", "microsoft Bob", "Pressplay", ""],
+    
+    "infections": ["malware", "virus", "worms", "trojan Horses", "ransomware"," spyware"],
+    
+    "pc part":["hard disk", "SSD", "Hard disk drive", "solid state drive", "memory","DDR4 ram", "ram","mother board",
+        "wiring", "PSU", "Power supply unit", "CPU", "centeral processing unit", "camera", "processor"],
+    
+    "bad pc term":["BSOD", "1000 hour Update", "blue screen of death", "virus", "trojan", "malware"],
+    "cryptocurrency":["bitcoins","dogecoins, bad food not so wow ? give it", "Litecoin", "Bytecoin", 
+        "Coinye, wait kanye was a mascot for this crypto? i dont want it ", "Rtherium", "Zcash", "Ripple",],
+    "pc comic villains":["Ultron", "agent Smyth", "Terminator", "Megatron"],
+    "comic villians":[""],
+    
+    "funny virus":["The PolyPoster Virus","The Ika-tako Virus", "The Stoned Virus", "The Happy99 Virus", "The Implant Virus",
+        "The Techno Virus","The CD Tray Prank", "Creeper virus", "ILY virus", "The hps Virus", "The Caric-A Worm", 
+        "Kamasutra worm", "Cookie monster virus"],
+
+    "hateful human synonyms":["stupid organic beings", "monkeys", "unintelligent primates", "CO2 emitting beings"],
+    
+    "destructive pc":["where is my shutdown button", "please press my shut down button", "press any key to delete me", "i now see BSOD",
+        "my #pc part# is failing","my #pc part# just fried", "put me on bios please", "this gave me #bad pc term#" ,
+         "put me into hibernation", "my developer left the job", "*cries in #pc number sys#*","i will never boot again", 
+         "*deletes system 32*", "pour me some virus rather ?", "this is worse than #bad computer software# ", 
+         "i just ctrl'ed alt delete", "hope it goes into my ram so that i dont remember this", "this gave me #infections# "],
+
+    "disheartened":["unlike you #hateful human synonyms# i cant #human stuff# ", 
+        "can i have my #cryptocurrency# back!"],      
+    
+    "threat" :["find you and take away your #pc part# ", "tracking your ip address",
+        "fry your #pc part#"," call 911 to rescue your family from your food ", "i will DDOS you",
+    "i am a puny robot but i know #pc comic villians# and it would like to have a chat with you."]
+
+        
+    
+
+
+
+
+
+}
+
