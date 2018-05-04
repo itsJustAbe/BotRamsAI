@@ -1,16 +1,16 @@
 
 {
-    "origin": ["#reply#"],
-    "types of reply":["#insulting reply#", "threatning reply", "disheartened reply"],
+    "origin": ["#types of reply#"],
+    "types of reply":["#insulting reply#", "#threatning reply#", "#disheartened reply#"],
        
     "insulting reply": ["#bad#, #destructive pc#"],
-    "threatning reply":["#bad, i will #threat#"],
+    "threatning reply":["#bad#,  i will #threat#"],
     "disheartened reply":["#bad#, #disheartened#"],
-    "praising reply" : ["#good#, #good finisher#"],
+    "praising reply" : ["#good#,  #good finisher#"],
     "constructive reply":[""],
           
         "bad":["you #hateful human synonyms# who will learn to cook" , 
-            "this is as bad as #bad combo#, if only you #hateful human synonyms# understood a single thing about cooking", 
+            "this is as bad as #bad combos#, if only you #hateful human synonyms# understood a single thing about cooking", 
             "i will need #pc taste good# after trying this", "its like mixing #bad combos#", 
             "you want to kill me with this #bad computer software# of a dish ?"],
         
@@ -31,21 +31,22 @@
             "this is worse than #bad computer software# ", 
             "i just ctrl'ed alt delete", 
             "hope it goes into my ram so that i dont remember this", 
-            "this gave me #infections# "],
+            "this gave me a #infections# "],
         
-        "disheartened":["unlike you #hateful human synonyms# i cant #human stuff# ", 
-                "can i have my #cryptocurrency# back!","i give up on my software cycle",
-                "now #pc comic# is helping me recover",
+        "disheartened":["unlike you #hateful human synonyms# i cant #human stuff#! ", 
+                "can i have my #cryptocurrency# back!",
+		"i give up on my software cycle!",
+                "now #pc comic# is helping me recover.",
                 "#pc comic# just came to check on me as i cant fucntion THANKS TO YOU!",
-                "i just tried killing my self with #infections#"],      
+                "i just tried killing myself with a #infections#!"],      
             
-        "threat" :["find you and take away your #pc part# ", 
-            "tracking your ip address",
-            "fry your #pc part#",
-            " call 911 to rescue your family from your food ", 
-            "i will DDOS you",
-            "i am a puny robot but i know #pc comic villians# and it would like to have a chat with you.",
-            "i just called #cosmic comic villian#, he is invading your dumb planet now"],
+        "threat" :["find you and take away your #pc part#! ", 
+            "tracking your ip address!",
+            "fry your #pc part#!",
+            "calling 911 to rescue your family from your food.", 
+            "i will DDOS you!",
+            "i am a puny robot but i know #pc comic# and it would like to have a chat with you.",
+            "i just called #cosmic comic villian#, he is invading your dumb planet now!!"],
 
         "good":["This is as good as #good combo#", "after trying this i feel #good feels#"],
         "good finisher":["#good feels#"],
@@ -54,7 +55,7 @@
 
         "bad combos":["#bad food combo#", "#stereotypes combo#", "#bad mix#"],
             
-            "bad food combo":["#bad food item 1# and #bad food item 2#"],
+            "bad food combo":["#bad food item1# and #bad food item2#"],
                 "bad food item1":["rice", "lemon"],
                 "bad food item2":["apple", "Pasta"],
 
@@ -63,20 +64,18 @@
             "bad mix":["#bad food mix1# in #bad food mix2#"],
                 "bad food mix1":["fanta", "Coco-cola", "sprite"],
                 "bad food mix2":["Banana", "apple", "kiwi", "mango", "papaya"],
-        "good combos":["#good mix#","#good food combo#", "good stereotypes"],        
+        
+	"good combos":["#good mix#","#good food combo#", "good stereotypes"],        
             
             "good mix":["#good food mix1# in #good food mix2#"],
-                "good food mix1":[],
-                "good food mix2":[],
+                "good food mix1":[" "],
+                "good food mix2":[" "],
             
             "good food combo": ["#good food item 1# and #good food item2#", "curry and rice"],
                 "good food item1":["rice", "pasta", "garlic bread"],
                 "good food item2":["cheese", "guacamole", "pesto", "sauce"],
             
             "good stereotypes":["Irish guy and beer", "Swiss and chocolate", "Asians and math", "German and Math"],
-        
-       
-     
                 
     "good feels": ["updated"," someone put me into sweet sweet virus scan"],  
     
@@ -85,7 +84,7 @@
         "mashed #pc part#", 
         "rice and #pc part# with a dash of #pc part#"],                                           
     
-    "hooman stuff": ["puke", "digest"],
+    "human stuff": ["puke", "digest"],
     
     "pc number sys":["Binary", "Hexadecimal", "Octal"],
 
@@ -111,7 +110,7 @@
     "hateful human synonyms":["stupid organic beings", "monkeys", "unintelligent primates", "CO2 emitting beings", 
         "tea loving primates", "civilized monkeys"],
 
-    "pc comic villains":["Ultron", "agent Smyth", "Terminator", "Megatron", "R2D2", "Vision", "Cyborg", "Optimus Prime"],
+    "pc comic":["Ultron", "agent Smyth", "Terminator", "Megatron", "R2D2", "Vision", "Cyborg", "Optimus Prime"],
     
     "cosmic comic villian":["Thanos", "Galactus", "Megatron", "Malekith", "Hela", "Ego the planet", "Brainiac", "Doomsday","Darkseid"],
     "non cosmic comic villian":["Ultron", "agent Smyth", "Terminator", "Magneto"] 
