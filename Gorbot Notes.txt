@@ -1,5 +1,8 @@
 Notes for GorBot
-    - vegetables need to convert to robot/ mechanical terms (still figuring out)
-    - need a bad combination example file
-    - Make it 2 part statement like the pizzaBot
+    - Add content for postive reply
+    - enable positive reply
+    - work on constructive reply
+    - add more combinations
+    - add stereotypes
+    - 
      
