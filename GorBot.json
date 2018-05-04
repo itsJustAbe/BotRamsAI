@@ -1,50 +1,65 @@
 
 {
-    "origin": ["#insulting reply#", "#praising reply#", "#constructivereply#"],
+    "origin": ["#insulting reply#"],
        
     "insulting reply": ["#bad#,#bad finisher#"],
-        "praising reply" : ["#good#, #good finisher#"],
+    "praising reply" : ["#good#, #good finisher#"],
+    "constructive reply":[""],
           
-        "bad":["i wish i #strong in pc#" , "this is as bad as #bad combo#","i will need #something good# after trying this",
-                "i will need #something addicting#", "i wish i was never #pc terminology of creation#"],
-            "good":["This is as good as #good combo#", "after trying this i feel ##"],
-            "bad finisher":["so i could #action#",  "#destructive pc#", "i will #threat#"],
-            "good finisher":[" "],
-            "constructive reply":[""],
+        "bad":["you #hateful human synonyms# who will learn to cook" , 
+            "this is as bad as #bad combo#, if only you #hateful human synonyms# understood a single thing about cooking", 
+            "i will need #pc taste good# after trying this", 
+            "you want to kill me with this #bad computer software# of a dish ?"],
+        "good":["This is as good as #good combo#", "after trying this i feel ##"],
+        "bad finisher":["so i could #action#",  "#destructive pc#", "i will #threat#"],
+        "good finisher":["#good feels#"],
         
             
-            "good example":[""],
-            "insult":[""],
-            "compliment" : ["surely better than #bad computer software#"],  
-            "good combo": [""],
-            "bad food combo":["#word1# and #word2#"],
-                        
-            
-            "bad general combo":[""],
-                "word1":["banana"],
-                "word2":["pumpkin"],
-            "bad mix":["#item1# in #item2#"],
-                "item1":[" Banana "],
-                "item2":[" fanta "],
-                
-    "feel good": ["updated"," someone put me into sweet sweet virus scan", ""],
+        "good example":[""],
+        "insult":[""],
+        "compliment" : ["surely better than #bad computer software#"],  
+        "good food combo": ["#good food item 1# and #good food item2#"],
+            "good food item1":[""],
+            "good food item2":[""],
+        "bad food combo":["#bad food item 1# and #bad food item 2#"],
+            "bad food item1":["banana"],
+            "bad food item2":["pumpkin"],
     
-    "hooman stuff": [" puke ", "digest"],
+        "bad general combo":["#bad general combo1# and #bad general combo2# "],
+            "bad general combo1":[""],
+            "bad general combo2":[""],
+        "good mix":["good"],
+            "good food mix1":[],
+            "good food mix2":[],
+
+        "bad mix":["#bad food mix1# in #bad food mix2#"],
+            "bad food mix1":[" Banana "],
+            "bad food mix2":[" fanta "],
+                
+    "good feels": ["updated"," someone put me into sweet sweet virus scan", " "],  
+    "pc taste good": ["#pc part# dipped in oil ", "stir #pc part# soup", "mashed #pc part#", 
+        "rice and #pc part# with a dash of #pc part#"],                                           
+    
+    "hooman stuff": ["puke", "digest"],
     
     "pc number sys":["Binary", "Hexadecimal", "Octal"],
+    "small pc parts":["screws", "wires", "ram sticks", ""],
     
     "bad computer software":["windows", "internet explorer", "ransomware", "Adobe reader patches", " Ask Toolbar","lotus notes",
             "norton Antivirus", "MacaAfee", "adobe flash", "iTunes for Windows", "windows me", "microsoft Bob", "Pressplay", ""],
     
     "infections": ["malware", "virus", "worms", "trojan Horses", "ransomware"," spyware"],
     
-    "pc part":["hard disk", "SSD", "Hard disk drive", "solid state drive", "memory","DDR4 ram", "ram","mother board",
+    "pc part":["hard disk", "SSD", "Hard disk drive", "solid state drive", "memory","DDR4 ram", "ram stick","motherboard",
         "wiring", "PSU", "Power supply unit", "CPU", "centeral processing unit", "camera", "processor"],
     
     "bad pc term":["BSOD", "1000 hour Update", "blue screen of death", "virus", "trojan", "malware"],
+   
     "cryptocurrency":["bitcoins","dogecoins, bad food not so wow ? give it", "Litecoin", "Bytecoin", 
         "Coinye, wait kanye was a mascot for this crypto? i dont want it ", "Rtherium", "Zcash", "Ripple",],
+   
     "pc comic villains":["Ultron", "agent Smyth", "Terminator", "Megatron"],
+    
     "comic villians":[""],
     
     "funny virus":["The PolyPoster Virus","The Ika-tako Virus", "The Stoned Virus", "The Happy99 Virus", "The Implant Virus",
@@ -65,13 +80,6 @@
     "threat" :["find you and take away your #pc part# ", "tracking your ip address",
         "fry your #pc part#"," call 911 to rescue your family from your food ", "i will DDOS you",
     "i am a puny robot but i know #pc comic villians# and it would like to have a chat with you."]
-
-        
-    
-
-
-
-
 
 }
 
