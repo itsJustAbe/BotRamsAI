@@ -4,5 +4,4 @@ Notes for GorBot
     - work on constructive reply
     - add more combinations
     - add stereotypes
-    - 
      

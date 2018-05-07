@@ -4,7 +4,7 @@
     "types of reply":["#insulting reply#", "#threatning reply#", "#disheartened reply#"],
        
     "insulting reply": ["#bad#, #destructive pc#"],
-    "threatning reply":["#bad#,  i will #threat#"],
+    "threatning reply":["#bad#, #threat#"],
     "disheartened reply":["#bad#, #disheartened#"],
     "praising reply" : ["#good#,  #good finisher#"],
     "constructive reply":[""],
@@ -12,7 +12,7 @@
         "bad":["You #hateful human synonyms# who will never learn to cook" , 
             "The food is as bad as mixing #bad combos#",
             "If only you #hateful human synonyms# understood a single thing about cooking", 
-            "I will need #pc taste good# after trying this", "its like mixing #bad combos#", 
+            "I will need #pc taste good# after trying this", "it's like mixing #bad combos#", 
             "you want to kill me with this #bad computer software# of a dish ?",
             "Tastes like deep fried #something sweet# and #bad food mix2# (i know my developer has issues)"],
         
@@ -44,10 +44,10 @@
                 "#pc comic# just came to check on me as i cant fucntion THANKS TO YOU!",
                 "i just tried killing myself with a #infections#!"],      
             
-        "threat" :["find you and take away your #pc part#! ", 
-            "tracking your ip address!",
-            "fry your #pc part#!",
-            "calling 911 to rescue your family from your food.", 
+        "threat" :["i will find you and take away your #pc part#! ", 
+            "i will track your ip address!",
+            "i will fry your #pc part#!",
+            "i am calling 911 to rescue your family from your food.", 
             "i will DDOS you!",
             "i am a puny robot but i know #pc comic# and it would like to have a chat with you.",
             "i just called #cosmic comic villian#, he is invading your dumb planet now!!"],
@@ -56,32 +56,6 @@
         "good finisher":["#good feels#"],
     
         "compliment" : ["surely better than #bad computer software#"],  
-
-        "bad combos":["#bad food combo#", "#bad mix#", "Sushi in burritos", "Banana and mayo sandwiches", "Peach and chicken sandwiches",
-            "Spaghetti and ketchup", "Waffle and fried chicken", "Bacon in ice cream", "Bacon dipped in syrup", "Deep fried pizza",
-            "Peanut butter and pickle sandwich", "Pizza with ranch sauce"],
-            
-            "bad food combo":["#bad food item1# and #bad food item2#"],
-                "bad food item1":["rice", "lemon"],
-                "bad food item2":["apple", "Pasta"],
-
-            "stereotypes combo":["british people and maths", "humans and logic", "Indians and hygene", "Canadians and ruthlessness"],
-    
-            "bad mix":["#bad food mix1# in #bad food mix2#"],
-                "bad food mix1":["fanta", "Coco-cola", "sprite"],
-                "bad food mix2":["Banana", "apple", "kiwi", "mango", "papaya"],
-        
-	"good combos":["#good mix#","#good food combo#", "good stereotypes"],        
-            
-            "good mix":["#good food mix1# in #good food mix2#"],
-                "good food mix1":[" "],
-                "good food mix2":[" "],
-            
-            "good food combo": ["#good food item 1# and #good food item2#", "curry and rice"],
-                "good food item1":["rice", "pasta", "garlic bread"],
-                "good food item2":["cheese", "guacamole", "pesto", "sauce"],
-            
-            "good stereotypes":["Irish guy and beer", "Swiss and chocolate", "Asians and math", "German and Math"],
                 
     "good feels": ["updated"," someone put me into sweet sweet virus scan"],  
     
@@ -120,7 +94,31 @@
     "pc comic":["Ultron", "agent Smyth", "Terminator", "Megatron", "R2D2", "Vision", "Cyborg", "Optimus Prime"],
     
     "cosmic comic villian":["Thanos", "Galactus", "Megatron", "Malekith", "Hela", "Ego the planet", "Brainiac", "Doomsday","Darkseid"],
-    "non cosmic comic villian":["Ultron", "agent Smyth", "Terminator", "Magneto"] 
+    "non cosmic comic villian":["Ultron", "agent Smyth", "Terminator", "Magneto"], 
+    
+    "bad combos":["#bad food combo#", "#bad mix#", "Sushi in burritos", "Banana and mayo sandwiches", "Peach and chicken sandwiches",
+        "Spaghetti and ketchup", "Waffle and fried chicken", "Bacon in ice cream", "Bacon dipped in syrup", "Deep fried pizza",
+        "Peanut butter and pickle sandwich", "Pizza with ranch sauce"],
+        
+        "bad food combo":["#bad food item1# and #bad food item2#"],
+            "bad food item1":["rice", "lemon"],
+            "bad food item2":["apple", "Pasta"],
+            
+        "bad mix":["#bad food mix1# in #bad food mix2#"],
+            "bad food mix1":["fanta", "Coco-cola", "sprite"],
+            "bad food mix2":["Banana", "apple", "kiwi", "mango", "papaya"],
+    
+    "good combos":["#good mix#","#good food combo#", "good stereotypes"],        
+        
+        "good mix":["#good food mix1# in #good food mix2#"],
+            "good food mix1":[" "],
+            "good food mix2":[" "],
+        
+        "good food combo": ["#good food item 1# and #good food item2#", "curry and rice"],
+            "good food item1":["rice", "pasta", "garlic bread"],
+            "good food item2":["cheese", "guacamole", "pesto", "sauce"],
+        
+        "good stereotypes":["Irish guy and beer", "Swiss and chocolate", "Asians and math", "German and Math"]
     
 }
 
