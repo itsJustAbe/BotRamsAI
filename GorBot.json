@@ -9,12 +9,15 @@
     "praising reply" : ["#good#,  #good finisher#"],
     "constructive reply":[""],
           
-        "bad":["you #hateful human synonyms# who will never learn to cook" , 
-            "this is as bad as #bad combos#, if only you #hateful human synonyms# understood a single thing about cooking", 
-            "i will need #pc taste good# after trying this", "its like mixing #bad combos#", 
-            "you want to kill me with this #bad computer software# of a dish ?"],
+        "bad":["You #hateful human synonyms# who will never learn to cook" , 
+            "The food is as bad as mixing #bad combos#",
+            "If only you #hateful human synonyms# understood a single thing about cooking", 
+            "I will need #pc taste good# after trying this", "its like mixing #bad combos#", 
+            "you want to kill me with this #bad computer software# of a dish ?",
+            "Tastes like deep fried #something sweet# and #bad food mix2# (i know my developer has issues)"],
         
-        "destructive pc":["where is my shutdown button", 
+        "destructive pc":[
+            "where is my shutdown button", 
             "please press my shut down button", 
             "press any key to delete me", 
             "i now see BSOD",
@@ -23,7 +26,7 @@
             "put me on bios please", 
             "this gave me #bad pc term#" ,
             "put me into hibernation", 
-            "my developer left the job", 
+            "my developer just left the job", 
             "*cries in #pc number sys#*",
             "i will never boot again", 
             "*deletes system 32*", 
@@ -31,7 +34,8 @@
             "this is worse than #bad computer software# ", 
             "i just ctrl'ed alt delete", 
             "hope it goes into my ram so that i dont remember this", 
-            "this gave me a #infections# "],
+            "this gave me #infections# "
+        ],
         
         "disheartened":["unlike you #hateful human synonyms# i cant #human stuff#! ", 
                 "can i have my #cryptocurrency# back!",
@@ -53,7 +57,9 @@
     
         "compliment" : ["surely better than #bad computer software#"],  
 
-        "bad combos":["#bad food combo#", "#stereotypes combo#", "#bad mix#"],
+        "bad combos":["#bad food combo#", "#bad mix#", "Sushi in burritos", "Banana and mayo sandwiches", "Peach and chicken sandwiches",
+            "Spaghetti and ketchup", "Waffle and fried chicken", "Bacon in ice cream", "Bacon dipped in syrup", "Deep fried pizza",
+            "Peanut butter and pickle sandwich", "Pizza with ranch sauce"],
             
             "bad food combo":["#bad food item1# and #bad food item2#"],
                 "bad food item1":["rice", "lemon"],
@@ -89,11 +95,12 @@
     "pc number sys":["Binary", "Hexadecimal", "Octal"],
 
     "small pc parts":["screws", "wires", "ram sticks", "processors", "cpu", "SSDs", "LEDs", "tiny camera"],
+    "something sweet": ["Mars bars", "milk chocolate", "chocolate cornetto", "Bourboun biscuits", ""],
     
     "bad computer software":["windows", "internet explorer", "ransomware", "Adobe reader patches", " Ask Toolbar","lotus notes",
             "norton Antivirus", "MacaAfee", "adobe flash", "iTunes for Windows", "windows me", "microsoft Bob", "Pressplay", ""],
     
-    "infections": ["malware", "virus", "worms", "trojan Horses", "ransomware"," spyware"],
+    "infections": ["a malware", "a virus", "worms", "trojan Horses", "a ransomware","a spyware"],
     
     "pc part":["hard disk", "SSD", "Hard disk drive", "solid state drive", "memory","DDR4 ram", "ram stick","motherboard",
         "wiring", "PSU", "Power supply unit", "CPU", "centeral processing unit", "camera", "processor"],
@@ -116,5 +123,6 @@
     "non cosmic comic villian":["Ultron", "agent Smyth", "Terminator", "Magneto"] 
     
 }
+
 
 
